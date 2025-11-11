@@ -1,0 +1,1 @@
+This course has taught me the basics of Git and GitHub, including how to create repositories, make commits, and collaborate using branches and pull requests. I now understand the workflow for version control and collaboration on software projects.
